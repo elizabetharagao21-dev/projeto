@@ -29,9 +29,4 @@ Qual o tempo médio de uso diário em horas? 8
 
 Depois dessas informações, o sistema realiza os cálculos automaticamente.
 
-Para resumir:
-Tecnologia	Utilização
-🐍 Python	Desenvolvimento do sistema
-💻 GitHub	Armazenamento e compartilhamento do projeto
-⚡ Energia elétrica	Tema e cálculo do projeto
-📝 README.md	Documentação do projeto
+🐍 Python 3.x | 🐙 GitHub Repository | ⚡ Energia Elétrica | 📖 README
