@@ -1,0 +1,6 @@
+Nome do sistema: SCA (sistema de consumo de água)
+Linguagem utilizada: Python
+Instruções para executar o programa: Este programa foi criado com o intuito de conscientizar os moradores sobre o consumo de água em seus lares ou comércio. Foi usado a estrutura de controle de fluxo: match case. Ele compara o valor de uma variável com vários padrões definidos nos blocos case. Ele não substitui o if, elif e else, apenas serve como uma opção a mais de instrução condicional. Foi usado também os operadores de comparação menor que (<) e igual a (==)para estabelecer um valor quee seja considerado aceitável na saída de dados.
+Para utilizar o programa o usuário deve inserir um tipo de imóvel: comércio, casa ou apartamento. Em seguida, informará o consumo de água em metros cúbicos e por fim aparecerá uma mensagem sobre o seu consumo de água. 
+![Água](https://img.shields.io/badge/Água-0077B6?style=for-the-badge&logo=water&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Energia](https://img.shields.io/badge/Energia-FFD700?style=for-the-badge&logo=energy&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
